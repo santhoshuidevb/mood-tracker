@@ -1,15 +1,19 @@
 {
   "name": "mood-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple mood tracker npm project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Your Name <your.email@example.com> (https://github.com/your-username)",
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santhoshuidevb/mood-tracker.git"
   }
 }
